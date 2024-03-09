@@ -1,0 +1,50 @@
+\documentclass{BitirmeClass}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{latexsym,amssymb,amsmath,amsthm,graphicx}
+\usepackage{etex}
+\usepackage{enumerate}
+\usepackage{cite}
+\usepackage{tikz}
+\usepackage{tabularx}
+\usepackage{multirow}
+%\usepackage{ctable}
+\usepackage{float}
+\usepackage{multirow}
+\usepackage{caption}
+%\usepackage{enumitem}
+%\usepackage{uarial}
+%\renewcommand{\familydefault}{\sfdefault}
+\usepackage[top=3cm, bottom=3cm, left=3cm, right=3cm]{geometry}%%sayfa kenar boşlukları ayarlandı.
+\usepackage{times}
+
+\theoremstyle{definition}
+\newtheorem{tanim}{Tanım}[section]
+\newtheorem{onerme}{Önerme}[section]
+\newtheorem{ornek}{Örnek}[section]
+\newtheorem{teorem}{Teorem}[section]
+\newtheorem{note}{Not}[section]
+\newtheorem{sonuc}{Sonuç}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{soru}{Soru}[section]
+\newenvironment{ispat}{{\vspace{-10pt} \bf İspat:} }{\hfill $\Box$ \mbox{}}
+\newenvironment{cozum}{{\vspace{-10pt} \bf Çözüm:} }{\hfill \mbox{}}
+
+\ToCLineisDotted %% İçindekiler kısmında sayfa numaralarına kadar olan kısım noktalı olsun
+
+\setlength{\fboxsep}{0pt}
+
+\input{bilgiler.tex}
+
+\renewcommand{\textfraction}{0.10}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\bottomfraction}{0.95}
+\renewcommand{\floatpagefraction}{0.35}
+\setcounter{totalnumber}{5}
+
+\begin{document}
+\input{anabolum.tex}
+\input{kaynaklar.tex}
+\end{document}

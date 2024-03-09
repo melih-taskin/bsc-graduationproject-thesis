@@ -1,0 +1,20 @@
+\contentsline {mistix}{\ozgecmisnameToC }{i}{}%
+\contentsline {mistix}{\tesekkurnameToC }{ii}{}%
+\contentsline {mistix}{\ozetnameToC }{iii}{}%
+\contentsline {mistix}{\contentsnameToC }{iv}{}%
+\addvspace {5mm}
+\addvspace {10\p@ }
+\contentsline {mistix}{1. \protect GİRİŞ}{1}{}%
+\addvspace {10\p@ }
+\contentsline {mistix}{2. \protect ANA BAŞLIK}{2}{}%
+\contentsline {section}{\normalfont 2.1. \protect Birincil alt başlık}{2}{}%
+\contentsline {subsection}{\normalfont 2.1.1. \protect İkincil alt başlık}{2}{}%
+\contentsline {subsubsection}{\normalfont 2.1.1.1. \protect Üçüncül alt başlık}{2}{}%
+\addvspace {10\p@ }
+\contentsline {mistix}{3. \protect BAŞKA BİR ANA BAŞLIK}{6}{}%
+\contentsline {section}{\normalfont 3.1. \protect Başka birincil alt başlık}{6}{}%
+\contentsline {subsection}{\normalfont 3.1.1. \protect Başka ikincil alt başlık}{6}{}%
+\contentsline {subsubsection}{\normalfont 3.1.1.1. \protect Başka üçüncül alt başlık}{6}{}%
+\addvspace {10\p@ }
+\contentsline {mistix}{4. \protect TARTIŞMA, SONUÇ VE ÖNERİLER}{7}{}%
+\contentsline {mistix}{\bibnameToC }{8}{}%
